@@ -1,2 +1,2 @@
-My first readme
-This is an update of My first README
+This repository is for the shell basics Project 0x00
+

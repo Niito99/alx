@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown vincent */. [A-Z a-z ]*
-chgrp staff */. [A-Z a-z ]*
+sudo chown vincent:staff */. [A-Z a-z ]*

@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv StarWars4
+telnet towel.blinkenlights.nl
